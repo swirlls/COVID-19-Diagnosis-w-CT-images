@@ -4,7 +4,7 @@ Developed two different CNN models modifying Resnet-50 for binary classification
 
 `Keras` for models and `Tensorflow` for CAM implementation
 
-## Example
+## Examples
 
 ![gradcam_transfer](https://user-images.githubusercontent.com/98493736/208717430-90bb61c0-d80f-4238-a111-4ac44d63ebfe.png)
 ![gradcam_scratch](https://user-images.githubusercontent.com/98493736/208717468-503005df-a496-409f-b51d-3ae0a6dc44d4.png)
